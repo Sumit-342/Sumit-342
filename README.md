@@ -6,6 +6,23 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Building+Lucy+AI;ML+Projects+%7C+Real+Deployments;Python+%7C+NLP+Learner&center=true&width=600&height=50&color=00ffcc&size=22">
 </p>
 
+
+### 🚀 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/Sumit-342/Lucy" target="_blank">
+    <img src="https://img.shields.io/badge/Project_Lucy-Emotion_AI_v0.03-00ffcc?style=for-the-badge&logo=github&logoColor=black" alt="Lucy Repo" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Sumit-342/heart-disease-predictor" target="_blank">
+    <img src="https://img.shields.io/badge/Heart_Disease-ML_App_Live-ff4b4b?style=for-the-badge&logo=streamlit&logoColor=white" alt="Heart Disease Repo" />
+  </a>
+</p>
+
+
+
+---
+
 # Hi 👋 I'm Sumit Singh
 
 🤖 **Machine Learning Enthusiast** 💻 **Building Project Lucy (Emotion Detection AI)** 🚀 **Focused on Real-World AI Applications**
