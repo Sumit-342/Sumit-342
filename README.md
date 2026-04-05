@@ -1,16 +1,96 @@
-## Hi there 👋
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:00ffcc&height=250&section=header&text=Sumit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Project%20Lucy&descAlignY=62&descAlign=50"/>
+</p>
 
-<!--
-**Sumit-342/Sumit-342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Building+Lucy+AI;ML+Projects+%7C+Real+Deployments;Python+%7C+NLP+Learner&center=true&width=600&height=50&color=00ffcc&size=22">
+</p>
 
-Here are some ideas to get you started:
+# Hi 👋 I'm Sumit Singh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 **Machine Learning Enthusiast** 💻 **Building Project Lucy (Emotion Detection AI)** 🚀 **Focused on Real-World AI Applications**
+
+---
+
+### 🚀 About Me
+
+• 🎓 BCA Student exploring AI & Machine Learning  
+• 🔁 Transitioned from Web Development → ML Projects  
+• 🤖 Built and deployed real-world ML applications  
+• 💡 Interested in Emotion AI, NLP, and Intelligent Systems
+
+---
+
+#### ⚙️ Frameworks & Tools
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git) 
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+### 📂 Featured Projects
+
+#### 🤖 Project Lucy
+*Emotion Detection AI that understands text + emojis using ML.*
+- Hinglish + English support
+- 7 emotion classification
+- Confidence-based fusion system
+- Built using **TF-IDF + Logistic Regression**
+
+#### ❤️ Heart Disease Prediction App
+*Machine Learning web app deployed using Streamlit.*
+- <a href="https://heart-disease-predictor-342.streamlit.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+</a>
+- Predicts heart disease risk based on user input
+- Uses **KNN + StandardScaler**
+- Fully deployed and accessible online
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img height="170em" src="https://github-readme-stats-fast.vercel.app/api?username=Sumit-342&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Sumit-342&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+### 🔥 GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sumit-342&theme=tokyonight&hide_border=true&area=true" width="100%"/>
+
+---
+
+### 🎯 Current Focus
+
+- Improving ML fundamentals
+- Learning **Deep Learning (ANN → CNN)** step-by-step
+- Building more real-world AI projects
+- Exploring deployment & APIs
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/sumit-singh-961b8134a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:sumitsingh.connect@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+</p>
+
+---
+
+### 💬 Final Note
+*I believe in learning by building.* *Every project I create is a step towards understanding how AI can be applied in real-world scenarios.*
+
+**More coming soon 🚀**
+
+---
+
+### 🐍 Contribution Snake
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
