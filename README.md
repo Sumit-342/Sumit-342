@@ -1,11 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:00ffcc&height=250&section=header&text=Sumit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Project%20Lucy&descAlignY=62&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:00ffcc&height=250&section=header&text=Sumit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Project%20Lucy&descAlignY=62&descAlign=50"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Building+Lucy+AI;ML+Projects+%7C+Real+Deployments;Python+%7C+NLP+Learner&center=true&width=600&height=50&color=00ffcc&size=22">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Building+Lucy+AI;ML+Projects+%7C+Real+Deployments;Python+%7C+NLP+Learner&center=true&width=600&height=50&color=00ffcc&size=22&background=0d0d0d00">
 </p>
-
 
 ### 🚀 Featured Repositories
 
