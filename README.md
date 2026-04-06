@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Sumit%20Singh&fontSize=70&fontColor=00ffcc&animation=fadeIn&fontAlignY=40&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Project%20Lucy&descAlignY=65&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d1117,100:00ffcc&height=250&section=header&text=Sumit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Project%20Lucy&descAlignY=62&descAlign=50&reversal=false"/>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Enthusiast;Building+Lucy+AI;ML+Projects+%7C+Real+Deployments;Python+%7C+NLP+Learner&center=true&width=600&height=50&color=00ffcc&size=22&background=0d1117">
 </p>
 
----
+
 
 ### 🚀 Featured Repositories
 
