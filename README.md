@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:00ffcc&height=250&section=header&text=Sumit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Project%20Lucy&descAlignY=62&descAlign=50"/>
 </p>
 
@@ -110,7 +110,7 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) 
 
 
 
@@ -121,7 +121,7 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0d0d,100:00ffcc&height=250&section=header&text=Sumit%20Singh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=AI%20%7C%20Machine%20Learning%20%7C%20Building%20Real-World%20Projects&descAlignY=62&descAlign=50"/>
 </p>
 
@@ -274,4 +274,4 @@
 
 ### 🐍 Contribution Snake
 
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) -->
