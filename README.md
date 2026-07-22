@@ -191,7 +191,7 @@
 
 #### 📊 Retail Sales Forecasting Dashboard
 *An end-to-end retail forecasting system with a multi-page analytics dashboard.*
-<a href="#" target="_blank">
+<a href="https://sales-forecasting-dashboard-sumit.streamlit.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Retail Dashboard Live Demo" />
 </a>
 
@@ -208,7 +208,7 @@
 
 #### 📄 AI Resume Analyzer
 *A Streamlit app that scores resumes and suggests best-fit roles.*
-<a href="#" target="_blank">
+<a href="https://sumit-resume-analyzer.streamlit.app/" target="_blank">
   <img src="https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Resume Analyzer Live Demo" />
 </a>
 
