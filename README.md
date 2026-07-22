@@ -132,11 +132,11 @@
 ### 🚀 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/Sumit-342/Numiq-AI-Math-Solver" target="_blank">
+  <a href="https://github.com/Sumit-342/AI-MATH-SOLVER" target="_blank">
     <img src="https://img.shields.io/badge/Numiq-AI_Math_Solver-00ffcc?style=for-the-badge&logo=github&logoColor=black" alt="Numiq Repo" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Sumit-342/retail-sales-forecasting" target="_blank">
+  <a href="https://github.com/Sumit-342/sales-forecasting-dashboard" target="_blank">
     <img src="https://img.shields.io/badge/Retail_Sales-Forecasting_Dashboard-ff9900?style=for-the-badge&logo=streamlit&logoColor=white" alt="Retail Forecasting Repo" />
   </a>
   &nbsp;&nbsp;
